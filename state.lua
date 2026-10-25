@@ -23,7 +23,7 @@ local state = {
     StoredCommand = nil,
     -- Temporary storage for DanNet observer admin tasks to be performed in main loop
     AdminPeerName = nil,
-    AdminAction = nil,
+    AdminPeerAction = nil,
     AdminPeerItem = '',
 
     -- Default peer source
